@@ -1,0 +1,8 @@
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01232023\3_49_Make_Some_Variables\MakeSomeVariables\bin\Debug\MakeSomeVariables.exe.config
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01232023\3_49_Make_Some_Variables\MakeSomeVariables\bin\Debug\MakeSomeVariables.exe
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01232023\3_49_Make_Some_Variables\MakeSomeVariables\bin\Debug\MakeSomeVariables.pdb
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01232023\3_49_Make_Some_Variables\MakeSomeVariables\obj\Debug\MakeSomeVariables.csproj.AssemblyReference.cache
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01232023\3_49_Make_Some_Variables\MakeSomeVariables\obj\Debug\MakeSomeVariables.csproj.SuggestedBindingRedirects.cache
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01232023\3_49_Make_Some_Variables\MakeSomeVariables\obj\Debug\MakeSomeVariables.csproj.CoreCompileInputs.cache
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01232023\3_49_Make_Some_Variables\MakeSomeVariables\obj\Debug\MakeSomeVariables.exe
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01232023\3_49_Make_Some_Variables\MakeSomeVariables\obj\Debug\MakeSomeVariables.pdb

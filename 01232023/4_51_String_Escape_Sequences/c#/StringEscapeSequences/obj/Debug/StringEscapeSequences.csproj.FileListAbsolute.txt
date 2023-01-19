@@ -1,0 +1,8 @@
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01232023\4_51_String_Escape_Sequences\c#\StringEscapeSequences\bin\Debug\StringEscapeSequences.exe.config
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01232023\4_51_String_Escape_Sequences\c#\StringEscapeSequences\bin\Debug\StringEscapeSequences.exe
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01232023\4_51_String_Escape_Sequences\c#\StringEscapeSequences\bin\Debug\StringEscapeSequences.pdb
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01232023\4_51_String_Escape_Sequences\c#\StringEscapeSequences\obj\Debug\StringEscapeSequences.csproj.AssemblyReference.cache
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01232023\4_51_String_Escape_Sequences\c#\StringEscapeSequences\obj\Debug\StringEscapeSequences.csproj.SuggestedBindingRedirects.cache
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01232023\4_51_String_Escape_Sequences\c#\StringEscapeSequences\obj\Debug\StringEscapeSequences.csproj.CoreCompileInputs.cache
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01232023\4_51_String_Escape_Sequences\c#\StringEscapeSequences\obj\Debug\StringEscapeSequences.exe
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01232023\4_51_String_Escape_Sequences\c#\StringEscapeSequences\obj\Debug\StringEscapeSequences.pdb
