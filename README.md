@@ -1,8 +1,8 @@
 # 2023_Code_Warriors
 
-Code Challenges soon to be pushed daily.
+## Code Challenges soon to be pushed weekly.
 
-Respect languages: 
+### Respective languages: 
   - Python
   - Java
   - C#
