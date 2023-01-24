@@ -1,0 +1,8 @@
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01272023\10_73_Positive_Or_Negative\c#\PositiveOrNegative\bin\Debug\PositiveOrNegative.exe.config
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01272023\10_73_Positive_Or_Negative\c#\PositiveOrNegative\bin\Debug\PositiveOrNegative.exe
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01272023\10_73_Positive_Or_Negative\c#\PositiveOrNegative\bin\Debug\PositiveOrNegative.pdb
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01272023\10_73_Positive_Or_Negative\c#\PositiveOrNegative\obj\Debug\PositiveOrNegative.csproj.AssemblyReference.cache
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01272023\10_73_Positive_Or_Negative\c#\PositiveOrNegative\obj\Debug\PositiveOrNegative.csproj.SuggestedBindingRedirects.cache
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01272023\10_73_Positive_Or_Negative\c#\PositiveOrNegative\obj\Debug\PositiveOrNegative.csproj.CoreCompileInputs.cache
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01272023\10_73_Positive_Or_Negative\c#\PositiveOrNegative\obj\Debug\PositiveOrNegative.exe
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01272023\10_73_Positive_Or_Negative\c#\PositiveOrNegative\obj\Debug\PositiveOrNegative.pdb
