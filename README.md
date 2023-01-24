@@ -8,4 +8,5 @@
   - C#
 
 ### Warrior Weeks
-  1. January 23rd
+  1. January 20th
+  2. January 27th
