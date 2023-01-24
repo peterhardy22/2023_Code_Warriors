@@ -1,0 +1,8 @@
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01272023\08_64_Number_Is_Odd\c#\NumberIsOdd\bin\Debug\NumberIsOdd.exe.config
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01272023\08_64_Number_Is_Odd\c#\NumberIsOdd\bin\Debug\NumberIsOdd.exe
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01272023\08_64_Number_Is_Odd\c#\NumberIsOdd\bin\Debug\NumberIsOdd.pdb
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01272023\08_64_Number_Is_Odd\c#\NumberIsOdd\obj\Debug\NumberIsOdd.csproj.AssemblyReference.cache
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01272023\08_64_Number_Is_Odd\c#\NumberIsOdd\obj\Debug\NumberIsOdd.csproj.SuggestedBindingRedirects.cache
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01272023\08_64_Number_Is_Odd\c#\NumberIsOdd\obj\Debug\NumberIsOdd.csproj.CoreCompileInputs.cache
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01272023\08_64_Number_Is_Odd\c#\NumberIsOdd\obj\Debug\NumberIsOdd.exe
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01272023\08_64_Number_Is_Odd\c#\NumberIsOdd\obj\Debug\NumberIsOdd.pdb
