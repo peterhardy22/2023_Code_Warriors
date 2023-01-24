@@ -1,0 +1,8 @@
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01272023\09_69_Food_Classifying\c#\FoodClassifying\bin\Debug\FoodClassifying.exe.config
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01272023\09_69_Food_Classifying\c#\FoodClassifying\bin\Debug\FoodClassifying.exe
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01272023\09_69_Food_Classifying\c#\FoodClassifying\bin\Debug\FoodClassifying.pdb
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01272023\09_69_Food_Classifying\c#\FoodClassifying\obj\Debug\FoodClassifying.csproj.AssemblyReference.cache
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01272023\09_69_Food_Classifying\c#\FoodClassifying\obj\Debug\FoodClassifying.csproj.SuggestedBindingRedirects.cache
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01272023\09_69_Food_Classifying\c#\FoodClassifying\obj\Debug\FoodClassifying.csproj.CoreCompileInputs.cache
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01272023\09_69_Food_Classifying\c#\FoodClassifying\obj\Debug\FoodClassifying.exe
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\01272023\09_69_Food_Classifying\c#\FoodClassifying\obj\Debug\FoodClassifying.pdb
