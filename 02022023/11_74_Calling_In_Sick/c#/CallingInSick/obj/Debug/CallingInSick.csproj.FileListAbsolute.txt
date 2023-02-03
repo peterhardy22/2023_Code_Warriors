@@ -1,0 +1,8 @@
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\02022023\11_74_Calling_In_Sick\c#\CallingInSick\bin\Debug\CallingInSick.exe.config
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\02022023\11_74_Calling_In_Sick\c#\CallingInSick\bin\Debug\CallingInSick.exe
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\02022023\11_74_Calling_In_Sick\c#\CallingInSick\bin\Debug\CallingInSick.pdb
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\02022023\11_74_Calling_In_Sick\c#\CallingInSick\obj\Debug\CallingInSick.csproj.AssemblyReference.cache
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\02022023\11_74_Calling_In_Sick\c#\CallingInSick\obj\Debug\CallingInSick.csproj.SuggestedBindingRedirects.cache
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\02022023\11_74_Calling_In_Sick\c#\CallingInSick\obj\Debug\CallingInSick.csproj.CoreCompileInputs.cache
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\02022023\11_74_Calling_In_Sick\c#\CallingInSick\obj\Debug\CallingInSick.exe
+C:\Users\phardy_d\Desktop\Home_Repos\2023_Code_Warriors\02022023\11_74_Calling_In_Sick\c#\CallingInSick\obj\Debug\CallingInSick.pdb
