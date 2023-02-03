@@ -28,6 +28,5 @@ namespace CallingInSick
             };
             Console.ReadLine();
         }
-
     }
 }
