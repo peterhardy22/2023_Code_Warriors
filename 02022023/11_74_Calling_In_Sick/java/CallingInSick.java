@@ -1,11 +1,11 @@
 public class SallingInSick {
     public static void main(String[] args) {
-        Random randomGenerator = new Random();
+        Random randomizer = new Random();
 
         boolean actuallySick = randomizer.nextBoolean();
         boolean kindaSick = randomizer.nextBoolean();
         boolean hateYourJob = randomizer.nextBoolean();
-        int sickDays = randomGenerator.nextInt(10) + 1;
+        int sickDays = randomizer.nextInt(10) + 1;
 
         if ((actuallySick && sickDays > 0) || (kindaSick && hateYourJob && sickDays > 0)) {
             boolean callingInSick = true;
