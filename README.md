@@ -11,3 +11,5 @@
   1. January 20th
   2. January 27th
   3. February 3rd
+  4. February 10th - Repos Introduction (Skipped)
+  5. February 17th - Rock, Paper, Scissors Mini Project
