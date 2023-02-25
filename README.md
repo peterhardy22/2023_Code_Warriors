@@ -9,7 +9,7 @@
 
 ### Warrior Weeks
   1. January 20th - Strings
-  2. January 27th - ...
-  3. February 3rd - ...
+  2. January 27th - Modules like random
+  3. February 3rd - Loops and Functions
   4. February 10th - Repos Introduction (Skipped)
   5. February 17th - Rock, Paper, Scissors Mini Project
