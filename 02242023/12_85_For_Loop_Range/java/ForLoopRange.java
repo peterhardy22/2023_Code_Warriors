@@ -1,17 +1,18 @@
 import java.util.*;
-import java.util.stream.Collectors;
-import java.util.stream.IntStream;
 
 public class ForLoopRange {
     public static void main(String[] args) { 
-        List[] numbers = IntStream.rangeClosed(10, 20).boxed().collect(Collectors.toList()); 
+        List<Integer> result = new ArrayList<>();
+        for (int i = 10; i < 21; i++) {
+            result.add(i);
+        }
         int answer = 0; 
         
-        for (int number = 0; number < numbers.length; number++) { 
+        for (int number = 0; number < result.size(); number++) { 
             if (number % 3 == 0) { 
                 answer += number; 
             } 
         } 
-        System.out.println(answer); 
+        System.out.println(answer);
     }
 }
