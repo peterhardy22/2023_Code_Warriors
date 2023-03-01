@@ -2,7 +2,7 @@
 
 ## Code Challenges now being pushed weekly.
 
-### Respective languages: 
+### Respective languages in Training: 
   - Python
   - Java
   - C#
