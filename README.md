@@ -2,7 +2,7 @@
 
 ## Code Challenges now being pushed weekly.
 
-### Respective languages: 
+### Respective languages in Training: 
   - Python
   - Java
   - C#
@@ -13,3 +13,5 @@
   3. February 3rd - Loops and Functions
   4. February 10th - Repos Introduction (Skipped)
   5. February 17th - Rock, Paper, Scissors Mini Project
+  6. February 24th - For and While Loops
+  7. March 3rd - Repos and Merge Conflicts
