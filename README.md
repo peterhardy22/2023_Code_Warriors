@@ -16,3 +16,4 @@
   6. February 24th - For and While Loops
   7. March 3rd - Repos and Merge Conflicts Workshop Pt. 1
   8. March 10th - Repos and Merge COnflicts Workshop Pt. 2
+  9. March 24th - Loops Cont'd
