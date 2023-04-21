@@ -18,3 +18,5 @@
   8. March 10th - Repos and Merge COnflicts Workshop Pt. 2
   9. March 24th - Loops Cont'd
   10. March 31st - Lists
+  11. April 7th - Lists Cont'd
+  12. April 21st - Intermediate Lists
