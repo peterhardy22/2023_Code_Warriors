@@ -1,5 +1,5 @@
 # Create a list called instructors.
-instructors = []
+instructors: list = []
 
 # Add the following strings to the instructors list: 
     # "Colt"
