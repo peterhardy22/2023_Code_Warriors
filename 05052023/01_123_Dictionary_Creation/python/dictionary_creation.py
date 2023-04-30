@@ -1,0 +1,1 @@
+user_info: dict[str, str | int] = {"name": "Peter", "height": 70, "eye_color": "blue"}
