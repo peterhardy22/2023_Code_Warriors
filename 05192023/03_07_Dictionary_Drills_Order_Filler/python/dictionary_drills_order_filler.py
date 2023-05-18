@@ -19,9 +19,7 @@
 # Function
 def fillable(stock: dict[str, int], merch: str, merch_units: int) -> bool:
     """Returns True if the merch and merch_units requested are available within stock."""
-    if stock.get(merch):
-        return stock[merch] >= merch_units
-    return False
+    return stock.get(merch, 0) >= merch_units
 
 
 # Test Cases
