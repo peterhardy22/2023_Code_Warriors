@@ -1,5 +1,5 @@
 # https://www.codewars.com/kata/53da6a7e112bd15cbc000012
-# Level 7 kyu
+# Level 8 kyu
 
 # Directions:
 # Python dictionaries are inherently unsorted. 
