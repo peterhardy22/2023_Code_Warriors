@@ -21,3 +21,4 @@
   11. April 7th - Lists Cont'd
   12. April 21st - Intermediate Lists
   13. April 28th - Choose a Kata about Lists
+  14. May 5th - Dictionaries
