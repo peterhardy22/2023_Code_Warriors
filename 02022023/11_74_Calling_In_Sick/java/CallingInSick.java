@@ -1,4 +1,6 @@
-public class SallingInSick {
+import java.util.Random;
+
+public class CallingInSick {
     public static void main(String[] args) {
         Random randomizer = new Random();
 
