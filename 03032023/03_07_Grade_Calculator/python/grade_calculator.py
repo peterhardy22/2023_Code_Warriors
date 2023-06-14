@@ -1,4 +1,4 @@
-# https://www.codewars.com/kata/55c28f7304e3eaebef0000da
+# https://www.codewars.com/kata/586e0dc9b98de0064b000247
 # Level 7 kyu
 
 # Directions:
