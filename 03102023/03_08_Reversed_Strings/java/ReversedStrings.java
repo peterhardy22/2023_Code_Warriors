@@ -10,16 +10,13 @@
 public class ReversedStrings {
     
     public static void main(String[] args) {
-        
-        System.out.println(stringReverser("Hello"));
-
+        System.out.println(stringReverser("world"));
+        System.out.println(stringReverser("word"));
     }
 
     public static String stringReverser(String word) {
-        StringBuilder wordObject = new StringBuilder();
-        wordObject.append(word);
-        System.out.println(wordObject);
-        return "Hey";
+        StringBuilder wordObject = new StringBuilder(word);
+        return wordObject.reverse().toString();
     }
 
 }
