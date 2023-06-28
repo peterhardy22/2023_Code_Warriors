@@ -23,3 +23,5 @@
   13. April 28th - Choose a Kata about Lists
   14. May 5th - Dictionaries
   15. May 19th - Dictionaries Cont'd
+  16. May 26th - More Dictionaries
+  17. June 2nd - Dictionaries Ender
