@@ -25,3 +25,4 @@
   15. May 19th - Dictionaries Cont'd
   16. May 26th - More Dictionaries
   17. June 2nd - Dictionaries Ender
+  18. June 16th - First Functions
