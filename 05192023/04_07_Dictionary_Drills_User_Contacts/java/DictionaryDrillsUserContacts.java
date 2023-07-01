@@ -1,4 +1,5 @@
 import java.util.HashMap;
+import java.util.Map;
 
 public class DictionaryDrillsUserContacts {
     
@@ -10,13 +11,17 @@ public class DictionaryDrillsUserContacts {
         userContacts(data);
     }
 
-    public static HashMap<String, Object> userContacts(Object[][] data) {
-        HashMap<String, Object> contactsMap = new HashMap<>(data.length, 2);
+    public static void userContacts(Object[][] data) {
+        Map<String, Integer> contactsMap = new HashMap<>();
         
         for (Object[] row : data) {
-            Object key = row[0];
-            int value = Integer.parseInt(row[1]);
+            String key = (String) row[0];
+            Integer value = (Integer) row[1];
             contactsMap.put(key, value);
+        }
+
+        for (Map.Entry<String, Integer> entry : contactsMap.entrySet()) {
+            System.out.println(entry.getKey() + ": " + entry.getValue());
         }
     }
 }
