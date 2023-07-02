@@ -6,10 +6,10 @@ public class StateAbbreviations {
         String[] list1 = {"CA", "NJ", "RI"};
         String[] list2 = {"California", "New Jersey", "Rhode Island"};
 
-        Zipper(list1, list2);
+        zipper(list1, list2);
     }
 
-    public static void Zipper(String[] list1, String[] list2) {
+    public static void zipper(String[] list1, String[] list2) {
         LinkedHashMap<String, String> statesMap = new LinkedHashMap<>();
 
         for (int index = 0; index < list1.length; index++) {

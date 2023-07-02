@@ -12,10 +12,10 @@ public class ListToDictionaryExercise {
         list[2][0] = "city";
         list[2][1] = "Bern";
 
-        Zipper(list);
+        zipper(list);
     }
 
-    public static void Zipper(Object[][] list) {
+    public static void zipper(Object[][] list) {
         LinkedHashMap<Object, Object> objectsMap = new LinkedHashMap<>();
 
         for (int index = 0; index < list.length; index++) {
