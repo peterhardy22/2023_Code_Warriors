@@ -16,7 +16,7 @@
 # You do not have to sort the items in the lists
 
 # Function
-def switch_dict(before_dict: dict[str, list[str]]) -> dict[str, list[str]]:
+def switch_dict(before_dict: dict[str, str]) -> dict[str, list[str]]:
     """Takes in a dictionary and switches the key and values for the return dictionary."""
     after_dict: dict[str, list[str]] = {before_dict[key]: [key] for key in before_dict}
 
