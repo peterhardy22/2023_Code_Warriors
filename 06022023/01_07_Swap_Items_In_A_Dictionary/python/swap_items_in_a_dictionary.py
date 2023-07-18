@@ -18,21 +18,23 @@
 # Function
 def switch_dict(before_dict: dict[str, list[str]]) -> dict[str, list[str]]:
     """Takes in a dictionary and switches the key and values for the return dictionary."""
-    after_dict: dict[str, list[str]] = {dict[key]: [key] for key in dict}
+    after_dict: dict[str, list[str]] = {before_dict[key]: [key] for key in before_dict}
 
-    for key, value in dict.items():
+    for key, value in before_dict.items():
         if value in after_dict.keys() and key not in after_dict[value]:
             after_dict[value].append(key)
     
     return after_dict
 
 # Tests
-# before = {
-#           'Ice': 'Cream',
-#           'Age': '21',
-#           'Light': 'Cream',
-#           'Double': 'Cream'
-#           }
+before = {
+          'Ice': 'Cream',
+          'Age': '21',
+          'Light': 'Cream',
+          'Double': 'Cream'
+          }
+
+print(switch_dict(before))
 
 # expected_ans = {
 #                 'Cream': ['Ice', 'Double', 'Light'],
