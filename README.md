@@ -27,3 +27,5 @@
   17. June 2nd - Dictionaries Ender
   18. June 16th - First Functions
   19. June 23rd - Functions
+  20. June 30th - Debugging
+  21. July 14th - More Functions
