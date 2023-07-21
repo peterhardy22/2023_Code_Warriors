@@ -1,9 +1,12 @@
+import java.lang.StringBuilder;
 
 public class FunctionsDebug {
     public static void main(String[] args) {
         int[] numbers = {8, 2, 5};
+        String word = "Hello World";
         System.out.println(multi(numbers));
         System.out.println(add(numbers));
+        System.out.println(reverse(word));
     }
 
     public static int multi(int[] numbersList) {
@@ -23,5 +26,9 @@ public class FunctionsDebug {
             total += num;
         }
         return total;
+    }
+
+    public static String reverse(String inputString) {
+        return new StringBuilder(inputString).reverse().toString();
     }
 }
