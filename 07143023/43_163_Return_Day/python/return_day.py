@@ -5,15 +5,17 @@ def return_day(number: int) -> str or None:
             5: "Thursday", 6: "Friday",
             7: "Saturday"}
     
-    if number < 8 or number > 0:
-        print(days.get(number))
+    if number <= 7 and number >= 1:
+        return days.get(number)
+    
+    return None
 
 
-return_day(1) # "Sunday"
-return_day(2) # "Monday"
-return_day(3) # "Tuesday"
-return_day(4) # "Wednesday"
-return_day(5) # "Thursday"
-return_day(6) # "Friday"
-return_day(7) # "Saturday"
-return_day(41) # None
+print(return_day(1)) # "Sunday"
+print(return_day(2)) # "Monday"
+print(return_day(3)) # "Tuesday"
+print(return_day(4)) # "Wednesday"
+print(return_day(5)) # "Thursday"
+print(return_day(6)) # "Friday"
+print(return_day(7)) # "Saturday"
+print(return_day(41)) # None
