@@ -29,3 +29,4 @@
   19. June 23rd - Functions
   20. June 30th - Debugging
   21. July 14th - More Functions
+  22. July 21st - Functions and Modules
