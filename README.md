@@ -5,7 +5,7 @@
 ### Respective languages in Training: 
   - Python
   - Java
-  - C#
+  - C# (TBD)
 
 ### Warrior Weeks
   1. January 20th - Strings
