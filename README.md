@@ -1,6 +1,6 @@
 # 2023_Code_Warriors
 
-## Code Challenges now being pushed weekly.
+## Code Challenges now being pushed sporadically.
 
 ### Respective languages in Training: 
   - Python
