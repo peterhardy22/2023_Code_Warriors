@@ -1,6 +1,6 @@
 # 2023_Code_Warriors
 
-## Code Challenges now being pushed sporadically.
+## Code Challenges now being pushed sporadically due to my new baby Walker.
 
 ### Respective languages in Training: 
   - Python
