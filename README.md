@@ -30,3 +30,4 @@
   20. June 30th - Debugging
   21. July 14th - More Functions
   22. July 21st - Functions and Modules
+  23. July 28th - Paternity Leave (Skip)
