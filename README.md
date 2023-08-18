@@ -31,3 +31,4 @@
   21. July 14th - More Functions
   22. July 21st - Functions and Modules
   23. July 28th - Paternity Leave (Skip)
+  24. ALL CAUGHT UP IN PYTHON AND JAVA
